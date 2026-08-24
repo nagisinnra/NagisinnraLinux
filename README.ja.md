@@ -43,6 +43,6 @@ releases参照
 
 このプロジェクトは MIT ライセンス のもとで公開されています。
 
-##　追記
+## 追記
 
 DistroWatch Waiting List に掲載されました（2026-08-22）
