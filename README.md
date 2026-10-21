@@ -23,7 +23,7 @@
 
 | Component | Specification |
 | :--- | :--- |
-| **Base Distribution** | Debian GNU/Linux (Stable Core) , Arch Linux |
+| **Base Distribution** | Debian GNU/Linux (Stable Core)|
 | **Memory Management** | Optimized `zram` kernel swap compression |
 | **Input Framework** | fcitx5 |
 | **Input Method Engine**| mozc |
@@ -36,7 +36,7 @@
 To clone the configuration and explore the optimization scripts:
 
 ```bash
-git clone https://github.com/NagisinnraLinux.git
+git clone https://github.com/nagisinnra/NagisinnraLinux.git
 cd NagisinnraLinux
 ```
 
@@ -44,8 +44,8 @@ cd NagisinnraLinux
 
 ---
 
-## Latest Update: v1.0.2 Stable
-The latest **v1.0.2 stable** release squashes a critical bug from previous development builds where the live session environment defaulted to an unprivileged `guest` user instead of launching the proper localized desktop session. **Upgrading to v1.0.2 is highly recommended.**
+## Latest Update: v1.0.8 Stable
+The latest **v1.0.8 stable** release squashes a critical bug from previous development builds where the live session environment defaulted to an unprivileged `guest` user instead of launching the proper localized desktop session. **Upgrading to v1.0.8 is highly recommended.**
 
 ---
 
@@ -61,4 +61,8 @@ The latest **v1.0.2 stable** release squashes a critical bug from previous devel
 
 ##  License
 
-This project is licensed under the **MIT License** - feel free to fork, mod, and distribute!
+NagisinnraLinux includes software components licensed under different open-source licenses.
+
+Project-specific configurations, scripts, and custom assets are licensed under the MIT License.
+Debian packages and Debian-derived components remain licensed under their respective original licenses, primarily the GNU General Public License (GPL) and other Debian-compatible open-source licenses.
+Please refer to each component's source code and package documentation for detailed licensing information.
