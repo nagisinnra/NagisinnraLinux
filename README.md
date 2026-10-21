@@ -52,7 +52,6 @@ The latest **v1.0.8 stable** release squashes a critical bug from previous devel
 ## About the Developer
 
 - **Handle:** nagisinnra
-- **Age:** Independent Linux Distribution Developer
 - **Tech Blog:** [Zenn (@nagisinnra)](https://zenn.dev/nagisinnra) (Japanese)
 
 > *"I started this project because I fell in love with the sheer satisfaction of stripping away bloatware until an OS boots at maximum velocity. NagisinnraLinux is my ongoing journey into the deep waters of low-level Linux systems, aiming to build the most efficient environment possible."*
