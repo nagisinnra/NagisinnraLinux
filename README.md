@@ -8,14 +8,14 @@
 ##  Key Features
 
 - **Ultra-Lightweight Footprint**
-  - **Idle RAM Usage:** ~**476 MB** (after boot)
+  - **Idle RAM Usage:** ~**476 MB** (after boot) Memory usage may vary depending on hardware and running services.
   - **Minimal Disk Footprint:** ~**2.45 GB** (installed)
 - **Out-of-the-Box Out-of-Box Japanese Support**
   - Prefitted with **fcitx5 + mozc** for seamless, low-overhead Japanese input processing.
 - **Advanced Memory Optimization**
   - Powered by **zram** compression out of the box to guarantee smooth multitasking even on highly constrained hardware.
 - **Production-Ready Cleanliness**
-  - Stripped of bloatware and redundant `systemd` services to maximize battery life and CPU responsiveness.
+  - Optimized default service configuration to maximize battery life and CPU responsiveness.
 
 ---
 
@@ -23,7 +23,7 @@
 
 | Component | Specification |
 | :--- | :--- |
-| **Base Distribution** | Debian GNU/Linux (Stable Core) |
+| **Base Distribution** | Debian GNU/Linux (Stable Core) , Arch Linux |
 | **Memory Management** | Optimized `zram` kernel swap compression |
 | **Input Framework** | fcitx5 |
 | **Input Method Engine**| mozc |
@@ -52,7 +52,7 @@ The latest **v1.0.2 stable** release squashes a critical bug from previous devel
 ## About the Developer
 
 - **Handle:** nagisinnra
-- **Age:** 13 (as of 2026)
+- **Age:** Independent Linux Distribution Developer
 - **Tech Blog:** [Zenn (@nagisinnra)](https://zenn.dev/nagisinnra) (Japanese)
 
 > *"I started this project because I fell in love with the sheer satisfaction of stripping away bloatware until an OS boots at maximum velocity. NagisinnraLinux is my ongoing journey into the deep waters of low-level Linux systems, aiming to build the most efficient environment possible."*
