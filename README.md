@@ -10,7 +10,7 @@
 - **Ultra-Lightweight Footprint**
   - **Idle RAM Usage:** ~**476 MB** (after boot) Memory usage may vary depending on hardware and running services.
   - **Minimal Disk Footprint:** ~**2.45 GB** (installed)
-- **Out-of-the-Box Out-of-Box Japanese Support**
+- **Out-of-Box Japanese Support**
   - Prefitted with **fcitx5 + mozc** for seamless, low-overhead Japanese input processing.
 - **Advanced Memory Optimization**
   - Powered by **zram** compression out of the box to guarantee smooth multitasking even on highly constrained hardware.
