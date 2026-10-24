@@ -46,7 +46,7 @@ cd NagisinnraLinux
 
 ## Latest Update: v1.0.9 Stable
 
-The latest **v1.0.9 stable** release removes the unnecessary **Openbox** and **Tint2** components from the default installation, resulting in a cleaner and more streamlined desktop environment. This change reduces system complexity, eliminates redundant packages, and improves the overall user experience. **Upgrading to v1.0.9 is recommended.**
+The latest **v1.1 stable** release removes the unnecessary **Openbox** and **Tint2** components from the default installation, resulting in a cleaner and more streamlined desktop environment. This change reduces system complexity, eliminates redundant packages, and improves the overall user experience. **Upgrading to v1.1 is recommended.**
 
 ---
 
