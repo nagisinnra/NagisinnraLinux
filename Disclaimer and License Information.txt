@@ -1,39 +1,66 @@
-## License & GPL Compliance for Nagisinnralinux
+License & GPL Compliance for NagisinnraLinux
+1. MIT License (Original NagisinnraLinux Components)
 
-### 1. MIT License (For Original Customizations)
-The **MIT License** applied to this repository applies *strictly and exclusively* to the original configuration tweaks, asset deployment scripts, text file modifications (such as `/etc/os-release` edits), and custom branding elements created directly by the author for the **Nagisinnralinux** project.
+The MIT License applies exclusively to the original work created for the NagisinnraLinux project, including custom configuration scripts, branding assets, deployment tools, documentation, and project-specific modifications that are not derived from upstream GPL-licensed code.
 
-```text
-Copyright (c) 2026 Nagisinnra
+These original components may be used, modified, distributed, and incorporated into other projects in accordance with the terms of the MIT License.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+2. GPL Compliance & Source Code Availability
+Scope of Modifications
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+NagisinnraLinux is an independent Linux distribution based on Debian. The project's modifications primarily consist of:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
+Desktop customization
+System configuration changes
+Branding and visual assets
+Distribution-specific scripts and packaging
 
----
+Unless explicitly stated otherwise, NagisinnraLinux does not modify upstream Debian source code or Linux kernel source code.
 
-### 2. GPL Compliance & Source Code Availability
-*   **Scope of Modification (Rebranding Only):** Nagisinnralinux is a personal custom spin and a rebranded distribution based on Debian. The modifications made in this project are strictly limited to system configurations, cosmetic choices (such as desktop themes and wallpapers), and identification files. No modifications or alterations have been made to the Linux kernel or any upstream application source codes.
-*   **Upstream Licensing:** All underlying Debian core packages, system binaries, utilities, and the Linux kernel included within this distribution are distributed under their original respective licenses, primarily the **GNU General Public License (GPL)**. The copyleft nature of the GPL remains completely untouched and is fully respected.
-*   **Source Code Access:** Because the upstream Debian packages remain completely unmodified, this personal repository does not host or duplicate the redundant gigabytes of official Debian source code. All corresponding machine-readable source codes are publicly hosted and maintained by the Debian Project. Users can freely access and download the exact source code for any component by visiting the official Debian Sources archive ([sources.debian.org](https://debian.org)) or by executing the standard `apt-get source` command on a running system.
+Upstream Licensing
 
----
+Many components distributed with NagisinnraLinux originate from Debian and remain licensed under their respective upstream licenses, including but not limited to:
 
-### 3. Trademark Notice & Disclaimer
-*   **Unofficial Derivative Work:** Nagisinnralinux is an independent, personal educational research project. It is neither affiliated with, sponsored by, nor endorsed by the official Debian Project or Software in the Public Interest, Inc.
-*   **Purpose of Trademark Display:** The Debian name and official logos displayed during the system boot sequence or within system configuration menus are used strictly for factual and informational purposes—specifically to credit the foundational upstream operating system upon which Nagisinnralinux is constructed, in accordance with standard fair use guidelines.
+GNU General Public License (GPL)
+GNU Lesser General Public License (LGPL)
+BSD License
+MIT License
+Apache License
+
+NagisinnraLinux fully respects and complies with all applicable open-source license requirements.
+
+Source Code Availability
+
+Source code for Debian-derived packages remains available through the Debian Project and its official source repositories.
+
+Users may obtain corresponding source code through:
+
+https://sources.debian.org
+Debian source package mirrors
+The standard apt source <package> command
+
+NagisinnraLinux does not restrict access to any upstream source code and does not claim ownership of third-party software included within the distribution.
+
+3. Trademark Notice & Project Independence
+Independent Project
+
+NagisinnraLinux is an independent community-driven project.
+
+It is not affiliated with, endorsed by, sponsored by, or officially associated with the Debian Project, Debian Developers, or Software in the Public Interest, Inc.
+
+Debian Acknowledgement
+
+NagisinnraLinux is built upon the Debian ecosystem and gratefully acknowledges the work of the Debian community.
+
+References to Debian within documentation or system information are intended solely to identify the upstream technology upon which the distribution is based.
+
+Branding Transition
+
+To establish a stronger independent identity and further respect Debian trademark policies, NagisinnraLinux is gradually replacing Debian-branded visual elements with original NagisinnraLinux branding.
+
+Future releases may continue this transition by replacing remaining Debian logos, artwork, and branding assets where appropriate.
+
+Trademarks
+
+DebianR is a registered trademark of Software in the Public Interest, Inc.
+The Debian logo is a trademark of the Debian Project.
