@@ -43,11 +43,8 @@ cd NagisinnraLinux
 *For ISO downloads, please refer to our latest stable [GitHub Releases](https://github.com/NagisinnraLinux/releases).*
 
 ---
-
-## Latest Update: v1.0.9 Stable
-
-The latest **v1.1 stable** release removes the unnecessary **Openbox** and **Tint2** components from the default installation, resulting in a cleaner and more streamlined desktop environment. This change reduces system complexity, eliminates redundant packages, and improves the overall user experience. **Upgrading to v1.1 is recommended.**
-
+## Latest Update: v1.1.1 Stable
+The latest **v1.1.1 stable** release introduces various stability improvements, bug fixes, and system refinements to provide a more reliable user experience. In addition, the project has begun a gradual transition away from Debian-branded visual elements in order to strengthen the NagisinnraLinux identity and respect Debian trademark guidelines. **Upgrading to v1.1.1 is recommended.**
 ---
 
 ## About the Developer
